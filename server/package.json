@@ -1,7 +1,7 @@
 {
   "name": "ai-translator-server",
   "version": "1.0.0",
-  "description": "AI-powered Multilingual Translator Backend (Node.js, Express, MongoDB, Gemini AI)",
+  "description": "Multilingual Translator Backend (Node.js, Express, MongoDB, Gemini AI)",
   "main": "server.js",
   "type": "commonjs",
   "scripts": {

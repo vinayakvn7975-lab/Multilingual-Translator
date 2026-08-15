@@ -28,7 +28,7 @@ app.use(express.json({ limit: '1mb' }));
 app.get('/api/health', (req, res) => {
   res.status(200).json({
     status: 'online',
-    message: 'AI Multilingual Translator Backend is running smooth.',
+    message: 'Multilingual Translator backend is running smoothly.',
     timestamp: new Date(),
   });
 });
@@ -44,7 +44,7 @@ app.use(errorHandler);
 // Start Express Server
 app.listen(PORT, () => {
   console.log(`=======================================================`);
-  console.log(`🚀 AI Translator Server running on port ${PORT}`);
+  console.log(`🚀 Multilingual Translator server running on port ${PORT}`);
   console.log(`🌐 API Endpoint: http://localhost:${PORT}/api/translate`);
   console.log(`=======================================================`);
 });

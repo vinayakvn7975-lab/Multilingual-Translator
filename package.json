@@ -1,7 +1,7 @@
 {
   "name": "ai-multilingual-translator",
   "version": "1.0.0",
-  "description": "AI-powered Multilingual Translator (MERN Stack: React, Express, Node.js, MongoDB, Gemini AI)",
+  "description": "Multilingual Translator (MERN Stack: React, Express, Node.js, MongoDB, Gemini AI)",
   "scripts": {
     "server": "npm --prefix server run dev",
     "client": "npm --prefix client run dev",

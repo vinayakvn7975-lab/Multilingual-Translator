@@ -1,6 +1,6 @@
-# 🌐 BhashaAI - Multilingual AI Translator (MERN Stack)
+# 🌐 Multilingual Translator (MERN Stack)
 
-A complete, modern, responsive **AI-powered Multilingual Translator Web Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) with Google Gemini AI integration.
+A complete, modern, responsive **Multilingual Translator Web Application** built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) with Google Gemini AI integration.
 
 Specialized in **Mixed-Language Translation (Code-Switching)** between **English and Kannada**, as well as transliterated Kanglish in Roman script (e.g., *"nanu college ge hogidde"*, *"ನಾನು today college ಹೋಗಿದ್ದೆ"*).
 
