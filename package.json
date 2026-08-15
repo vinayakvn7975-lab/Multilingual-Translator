@@ -1,0 +1,23 @@
+{
+  "name": "ai-multilingual-translator",
+  "version": "1.0.0",
+  "description": "AI-powered Multilingual Translator (MERN Stack: React, Express, Node.js, MongoDB, Gemini AI)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "install:all": "npm --prefix server install && npm --prefix client install --legacy-peer-deps",
+    "start": "node server/server.js"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "express",
+    "kannada",
+    "english",
+    "mixed-language",
+    "translator",
+    "ai"
+  ],
+  "author": "",
+  "license": "ISC"
+}
