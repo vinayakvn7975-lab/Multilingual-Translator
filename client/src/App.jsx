@@ -148,7 +148,7 @@ function App() {
         {activeTab === 'translator' && (
           <>
             <section className="hero-section">
-              <h1 className="hero-title">Multilingual Translator</h1>
+              <h1 className="hero-title">Multilingual Translator Major Project</h1>
               <p className="hero-subtitle">
                 Seamlessly translate mixed English, Kannada, and code-switched Kanglish text naturally.
               </p>
